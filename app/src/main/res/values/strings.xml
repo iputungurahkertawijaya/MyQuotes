@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyQuotes</string>
+    <string name="quote">test quote</string>
+    <string name="author">putu ngurah</string>
+</resources>
